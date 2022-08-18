@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://brajesh-lovanshi-portfolio.netlify.app/#about)**
 
 - 📫 How to reach me **brajeshlovanshi2001@gmail.com**
 
