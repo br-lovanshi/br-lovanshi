@@ -80,8 +80,18 @@
 
 </p>
 
+
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+
+
+
+ ## ❤ Views and Followers
+<a href="https://github.com/br-lovanshi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
+</a>
+<a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 <div align="center">
@@ -89,8 +99,3 @@
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
 
- ## ❤ Views and Followers
-<a href="https://github.com/br-lovanshi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
-</a>
-<a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
