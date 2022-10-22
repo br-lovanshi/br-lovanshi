@@ -82,7 +82,7 @@
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
 
 
 
