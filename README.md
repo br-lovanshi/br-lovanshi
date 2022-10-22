@@ -80,6 +80,15 @@
 
 </p>
 
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
+
+
+<div align="center">
+
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+</div>
+
  ## ❤ Views and Followers
 <a href="https://github.com/br-lovanshi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
