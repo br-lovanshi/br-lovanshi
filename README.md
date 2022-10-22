@@ -22,7 +22,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Himanshu!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+Spring + Boot + LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
 
@@ -104,9 +104,25 @@
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+- uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**br-lovanshi**)
+    # using action context var `github.repository_owner` or specified user
+   br-lovanshi: ${{ br-lovanshi }}
 
-![snake gif](https://github.com/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
  ## ❤ Views and Followers
 <a href="https://github.com/br-lovanshi/github-profile-views-counter">
