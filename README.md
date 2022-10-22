@@ -22,7 +22,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+Spring + Boot + LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
 
@@ -42,7 +42,7 @@
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -73,6 +73,11 @@
     </a>
 </p>
 
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)
+
+
 ## 📊 My Github Stats
 
   <br/>
@@ -90,7 +95,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -104,25 +109,7 @@
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
-- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**br-lovanshi**)
-    # using action context var `github.repository_owner` or specified user
-   br-lovanshi: ${{ br-lovanshi }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
  ## ❤ Views and Followers
 <a href="https://github.com/br-lovanshi/github-profile-views-counter">
