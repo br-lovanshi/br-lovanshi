@@ -26,11 +26,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
-
+<hr color="blue"/>
 
 ## 🙋‍♂️ About Me
 
-                  
+<br/>
+<img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<br/>
+
+
 <!--  - 🔭 I’m currently working on **[collaborative project](https://br-lovanshi.github.io/)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -43,7 +47,11 @@
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
 
-## 🚀 Languages and Tools:  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
+<hr color="blue"/>
+
+## 🚀 Languages and Tools:
+<!--
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -68,22 +76,81 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/br-lovanshi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brajesh lovanshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=br-lovanshi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
+-->
+
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank">   
+   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
+  </a> 
+	&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
+   </a>
+	&emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img width="75px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+   </a>
 </p>
 
+### 👉 Backend Development
+<p align="center" background-color="yellow"> 
+  &emsp; 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+  </a>   
+	&emsp; 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+  </a>  &emsp; 
+	<a href="" target="_blank"> 
+   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
+  </a> 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
+  </a> 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  </a> 
+    <a href="" target="_blank"> 
+   <img width="75px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
+  </a> 
+</p>
+
+### 👉 Software & Tools
+ 
+<p align="center">
+  <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+    <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
+  &emsp;
+    <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
+
+</p> 
+
+<hr color="blue"/>
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)
 
+<hr color="blue"/>
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/br-lovanshi/github-readme-stats"><img alt=" Brajesh Lovanshi Github Stats" src="https://github-readme-stats.vercel.app/api?username=br-lovanshi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/br-lovanshi/github-readme-stats"><img alt="Brajesh Lovanshi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-lovanshi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=br-lovanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<br/>
+
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=br-lovanshi" alt="Brajesh Lovanshi" /></p>
+<br/>
+ <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=br-lovanshi&show_icons=true&locale=en&layout=compact" alt="Brajesh Lovanshi" /></p>
+ <br/>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -95,31 +162,32 @@
 
 <br/>
 <br/>
-
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<hr color="blue"/>
 
 
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<p align="center">
+	<a href="brajeshlovanshi2001@gmail.com" target="_blank"><img width="75px" img src="https://img.icons8.com/color/344/gmail--v1.png"/></a>
+	<a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/" target="_blank"><img width="75px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn"/></a>
+	
+	
 </p>
-
+<br/>
+<hr/>
+<hr color="blue"/>
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
-
+<hr color="blue"/>
  ## ❤ Views and Followers
 <a href="https://github.com/br-lovanshi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
 </a>
 <a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<hr color="blue"/>
 
 <div align="center">
+  
 
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
