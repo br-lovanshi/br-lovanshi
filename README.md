@@ -94,9 +94,7 @@
   <a href="" target="_blank"> 
    <img width="75px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   </a>  &emsp; 
-	<a href="" target="_blank"> 
-   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
-  </a> 
+	
   <a href="" target="_blank"> 
    <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
   </a> 
