@@ -1,7 +1,6 @@
 <a href="#"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="600px" align="center"   /></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Brajesh</h1>
 
 
 
@@ -15,9 +14,6 @@
 <p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p> 
   
   
-<!-- 
-###
-**jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
   
@@ -28,14 +24,30 @@
 
 <hr color="blue"/>
 
+
+
 ## 🙋‍♂️ About Me
 
-<br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
+- I’m currently learning🌱 Spring-boot and applying them on a few basic applications you can check them here. [Click here](https://br-lovanshi.github.io)  
+  
 
-<!--  - 🔭 I’m currently working on **[collaborative project](https://br-lovanshi.github.io/)** -->
+- ❓ Ask me about anything related to Java Backend  and related technologies
+
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+ 
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+<br>
+
+<hr/>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -46,38 +58,11 @@
 - 📫 How to reach me **brajeshlovanshi2001@gmail.com**
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
-
+</p>
 <hr color="blue"/>
 
 ## 🚀 Languages and Tools:
-<!--
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
-   
-  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <!--  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> -->
-    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
-     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    
-    <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
--->
 
 ### 👉 Frontend Development
 <p align="center"> 
@@ -174,17 +159,19 @@
 </p>
 <br/>
 <hr/>
-<hr color="blue"/>
+
+
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
-<hr color="blue"/>
+
+
  ## ❤ Views and Followers
 <a href="https://github.com/br-lovanshi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
 </a>
 <a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<hr color="blue"/>
+
 
 <div align="center">
   
