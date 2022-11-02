@@ -31,7 +31,7 @@
 ## 🙋‍♂️ About Me
 
                   
-- 🔭 I’m currently working on **[collaborative project](https://br-lovanshi.github.io/)**
+<-- - 🔭 I’m currently working on **[collaborative project](https://br-lovanshi.github.io/)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
