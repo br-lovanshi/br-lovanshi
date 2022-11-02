@@ -1,9 +1,9 @@
 <a href="#"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="600px" align="center"   /></a>
 
-<!--
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Brajesh</h1>
-<h3 align="center">I'm a passionate Java Back-end Developer from India.</h3>
-<p>I am an aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p> -->
+
+
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
@@ -12,6 +12,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+<p>I am an aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p> 
   
   
 <!-- 
