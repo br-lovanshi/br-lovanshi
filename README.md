@@ -150,7 +150,7 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-	<a href="brajeshlovanshi2001@gmail.com" target="_blank"><img width="75px" img src="https://img.icons8.com/color/344/gmail--v1.png"/></a>
+	<a href="mailto:brajeshlovanshi2001@gmail.com" target="_blank"><img width="75px" img src="https://img.icons8.com/color/344/gmail--v1.png"/></a>
 	<a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/" target="_blank"><img width="75px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn"/></a>
 	
 	
