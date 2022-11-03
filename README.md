@@ -175,9 +175,10 @@
 <div align="center">
   
 	<p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/br-lovanshi/count.svg" />
 </p>
+	</div>
 
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
