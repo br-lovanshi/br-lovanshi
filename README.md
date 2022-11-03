@@ -170,9 +170,14 @@
 <a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+## 📊  Github Visitors 
 
 <div align="center">
   
+	<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/br-lovanshi/count.svg" />
+</p>
 
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
