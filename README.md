@@ -178,6 +178,15 @@
   <img src="https://profile-counter.glitch.me/br-lovanshi/count.svg" />
 
 	
-### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+
 </div>
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
+
 
