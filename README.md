@@ -28,10 +28,14 @@
 
 ## 🙋‍♂️ About Me
 
+ ## Resume [Click here](https://drive.google.com/drive/u/0/folders/1gJK2LnjzgWK4DXzbo0ZsLcoZYzl5iE86)  
+ <br/>
+ <br/>
+ ## Portfolio  [Click here](https://br-lovanshi.github.io)  
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-- I’m currently learning🌱 Spring-boot and applying them on a few basic applications you can check them here. [Click here](https://br-lovanshi.github.io)  
+- I’m currently learning🌱 Spring-boot and applying them on collabrative project you can check them here. [Click here](https://github.com/br-lovanshi/tangible-station-4401)  
   
 
 - ❓ Ask me about anything related to Java Backend  and related technologies
@@ -53,7 +57,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://br-lovanshi.github.io)**
+- 👨‍💻 Top of my projects are available at **[My Portfolio](https://br-lovanshi.github.io)**
 
 - 📫 How to reach me **brajeshlovanshi2001@gmail.com**
 
