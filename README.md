@@ -28,19 +28,17 @@
 
 ## 🙋‍♂️ About Me
 
- ## Resume [Click here](https://drive.google.com/drive/u/0/folders/1gJK2LnjzgWK4DXzbo0ZsLcoZYzl5iE86)  
+<!--  ## Resume [Click here](https://drive.google.com/drive/u/0/folders/1gJK2LnjzgWK4DXzbo0ZsLcoZYzl5iE86)  
  <br/>
  <br/>
 <br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-
+ -->
 - I’m currently learning🌱 Spring-boot and applying them on collabrative project you can check them here. [Click here](https://github.com/br-lovanshi/tangible-station-4401)  
   
-
 - ❓ Ask me about anything related to Java Backend  and related technologies
-
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
@@ -62,10 +60,10 @@
 <br>
 
 <hr/>
+<!-- 
 
+</p> -->
 
-</p>
-<hr color="blue"/>
 
 ## 🚀 Languages and Tools:
 
@@ -139,9 +137,9 @@
 <br/>
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=br-lovanshi&show_icons=true&locale=en&layout=compact" alt="Brajesh Lovanshi" /></p>
  <br/>
-
+<!-- 
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <!-- 
 <br/>
@@ -169,10 +167,10 @@
 ![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
 
 
- ## ❤ Views and Followers
-<a href="https://github.com/br-lovanshi/github-profile-views-counter">
+ ## ❤  Followers
+<!-- <a href="https://github.com/br-lovanshi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
-</a>
+</a> -->
 <a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
