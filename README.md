@@ -11,9 +11,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p> 
+<!-- <p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p>  -->
   
-  
+  <p>A very enthusiastic self-motivated and hard-working back-end developer with proficiency in Java. I believe that the solution to real-world problems is modern technology.Problem-solving mindset and hands-on experience in developing 3 fully working collaborative projects.</p>
 
 <div align="center">
   
