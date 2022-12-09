@@ -44,17 +44,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
-
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-<br>
-
-<hr/>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+ - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -63,6 +53,17 @@
 - 📫 How to reach me **brajeshlovanshi2001@gmail.com**
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
+
+<!--   <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/> -->
+<br>
+
+<hr/>
+
+
 </p>
 <hr color="blue"/>
 
@@ -142,11 +143,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<!-- 
 <br/>
 <br/>
 
-<a href="https://github.com/br-lovanshi/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=br-lovanshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/br-lovanshi/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=br-lovanshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -175,7 +176,7 @@
 <a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-## 📊  Github Visitors 
+<!-- ## 📊  Github Visitors 
 
 <div align="center">
   
@@ -185,13 +186,13 @@
 	
 
 </div>
+ -->
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
-<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
+<!-- <p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p> -->
 
 
