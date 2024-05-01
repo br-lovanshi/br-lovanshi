@@ -160,9 +160,9 @@
 <hr/>
 
 
-## Watch my contribution graph eaten by the snake🐍
+<!-- ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
-
+-->
 
  ## ❤  Followers
 <!-- <a href="https://github.com/br-lovanshi/github-profile-views-counter">
