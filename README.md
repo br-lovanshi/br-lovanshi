@@ -1,193 +1,75 @@
+# 👋 Hello, World! I'm Brajesh Lovanshi
 
+### 🚀 Passionate Backend Developer | Java | Python | System Design | Microservices
 
+---
 
+## 🔥 About Me
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+- 🏆 Software Engineer with a problem-solving mindset and hands-on experience in Java & Spring Boot.
+- 🔍 Enthusiastic about **System Design, Microservices, and Scalable Architectures**.
+- 📚 Constantly learning **Data Structures & Algorithms, Python, and Cloud Technologies**.
+- 💡 Love working on **high-performance backend systems** and solving **complex engineering challenges**.
+- 🤝 Open to collaboration on **Open Source Projects & Tech Blogs**.
+- 📧 Reach me at **[brajeshlovanshi2001@gmail.com](mailto:brajeshlovanshi2001@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **Backend Frameworks & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### **Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 📈 Achievements & Stats
+
+### 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=br-lovanshi&show_icons=true&count_private=true&hide_border=true" />
+</p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<!-- <p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p>  -->
-  
-  <p>A very enthusiastic self-motivated and hard-working back-end developer with proficiency in Java. I believe that the solution to real-world problems is modern technology.Problem-solving mindset and hands-on experience in developing 3 fully working collaborative projects.</p>
-
-<div align="center">
-  
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
-</div>
-
-<hr color="blue"/>
-
-
-
-## 🙋‍♂️ About Me
-
-<!--  ## Resume [Click here](https://drive.google.com/drive/u/0/folders/1gJK2LnjzgWK4DXzbo0ZsLcoZYzl5iE86)  
- <br/>
- <br/>
-<br/>
-<img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
-<br/>
-
- -->
-- I’m currently learning🌱 Spring-boot and applying them on collabrative project you can check them here. [Click here](https://github.com/br-lovanshi/tangible-station-4401)  
-  
-- ❓ Ask me about anything related to Java Backend  and related technologies
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
- 
- - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 Top of my projects are available at **[My Portfolio](https://br-lovanshi.github.io)**
-
-- 📫 How to reach me **brajeshlovanshi2001@gmail.com**
-
-- ⚡ Fun fact **Internet is soil & coding is plant for me**
-
-<!--   <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/> -->
-<br>
-
-<hr/>
-<!-- 
-
-</p> -->
-
-
-## 🚀 Languages and Tools:
-
-
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank">   
-   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
-  </a> 
-	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
-   </a>
-	&emsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img width="75px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-   </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br-lovanshi" alt="Brajesh Lovanshi" />
 </p>
 
-### 👉 Backend Development
-<p align="center" background-color="yellow"> 
-  &emsp; 
-  <a href="" target="_blank"> 
-   <img width="75px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-  </a>   
-	&emsp; 
-  <a href="" target="_blank"> 
-   <img width="75px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-  </a>  &emsp; 
-	
-  <a href="" target="_blank"> 
-   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
-  </a> 
-  <a href="" target="_blank"> 
-   <img width="75px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  </a> 
-    <a href="" target="_blank"> 
-   <img width="75px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
-  </a> 
-</p>
-
-### 👉 Software & Tools
- 
 <p align="center">
-  <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
-    <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
-  &emsp;
-    <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
-
-</p> 
-
-<hr color="blue"/>
-
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)
-
-<hr color="blue"/>
-
-## 📊 My Github Stats
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=br-lovanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>
-
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=br-lovanshi" alt="Brajesh Lovanshi" /></p>
-<br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=br-lovanshi&show_icons=true&locale=en&layout=compact" alt="Brajesh Lovanshi" /></p>
- <br/>
-<!-- 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-<!-- 
-<br/>
-<br/>
-
-<a href="https://github.com/br-lovanshi/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=br-lovanshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-<br/>
-<hr color="blue"/>
-
-
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align="center">
-	<a href="mailto:brajeshlovanshi2001@gmail.com" target="_blank"><img width="75px" img src="https://img.icons8.com/color/344/gmail--v1.png"/></a>
-	<a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/" target="_blank"><img width="75px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn"/></a>
-	
-	
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=br-lovanshi&show_icons=true&locale=en&layout=compact" />
 </p>
-<br/>
-<hr/>
 
+### 🏆 LeetCode Performance
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/br-lovanshi?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" />
+</p>
 
-<!-- ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
--->
+---
 
- ## ❤  Followers
-<!-- <a href="https://github.com/br-lovanshi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=br-lovanshi">
-</a> -->
-<a href="https://github.com/br-lovanshi?tab=followers"><img src="https://img.shields.io/github/followers/br-lovanshi?label=Followers&style=social" alt="GitHub Badge"></a>
+## 🌍 Connect with Me
 
+<p align="left">
+  <a href="mailto:brajeshlovanshi2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/br-lovanshi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-<!-- ## 📊  Github Visitors 
+---
 
-<div align="center">
-  
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/br-lovanshi/count.svg" />
-
-	
-
-</div>
- -->
-
-
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<!-- <p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p> -->
-
+✨ *"Hard work beats talent when talent doesn't work hard."* ✨
 
