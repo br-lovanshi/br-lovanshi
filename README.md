@@ -56,7 +56,7 @@
 
 ### 🏆 LeetCode Performance
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/br-lovanshi?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/learning_brajesh_lovanshi?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
